@@ -1,10 +1,11 @@
 # agente-de-organizacao-de-estudos
 Projeto realizado no Bootcamp Bradesco da DIO -  O uso da Inteligência Artificial como uma verdadeira ferramenta de aprendizagem ativa!
 Tecnologia usada: NotebookLM
-
+------------------------------------------------------------------------------------------------------------------
 CONTEXTO E OBJETIVOS
 Caderno inteligente criado com o objetivo de otimizar o estudo diário, alimentado totalmente por métodos de estudos comprovados cientificamente e base de organização focada no notion. O objetivo do material é ajudar o dia a dia do estudante de qualquer área, criando cronogramas de estudo, analisando os métodos que fazem sentido para cada pessoa, resumo de conteúdos, planejamento semanal e mensal, sessões de foco e revisão espaçada.
 ------------------------------------------------------------------------------------------------------------------
+
 CONCEITOS 
 Técnica Feynman: método de aprendizado baseado em explicar de forma simples para garantir compreensão real.
 Pomodoro: técnica de gestão de tempo com ciclos de foco e pausa.
@@ -38,9 +39,7 @@ Estruture uma página no Notion para estudar [tema], incluindo seções, uso de 
 
 Resumo inteligente
 Resuma o conteúdo [tema] de forma clara, estruturada e objetiva, destacando os pontos principais.
-    
-Autoavaliação
-Crie perguntas para testar meu conhecimento sobre [tema], utilizando o método de recordação ativa.
+
 ------------------------------------------------------------------------------------------------------------------
 ENGENHARIA DE PROMPTS E CICATRIZES 
 Versão 1 
